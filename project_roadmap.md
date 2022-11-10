@@ -11,6 +11,6 @@
 3B. - [ ] Install API Key from football-data.org and create account. DONE
 4. - [ ] Get the codes running and test it.DONE
 5. - [ ] Choose one of them and clone it to you Github repository. DONE
-6. - [ ]Read the code and search for unused lines. DONE
-7. - [ ]Make changes on the code and run it.
+6. - [ ] Read the code and search for unused lines. DONE
+7. - [ ] Make changes on the code and run it.
 8. - [ ] Add some features and improve the program.
